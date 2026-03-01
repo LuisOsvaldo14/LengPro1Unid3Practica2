@@ -105,11 +105,5 @@ namespace Ejerciciovideolab04
             MostrarAlumnos(alumnoController.BuscarPorCodigo(codigo));
 
         }
-
-        
-
-
-
-        
     }
 }
